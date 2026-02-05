@@ -1,16 +1,26 @@
+🎓 Estudante do IFTO
+💻 Aprendendo programação e tecnologia
+🚀 Em constante evolução
 
-aura
-<!--
-**arthurzinAURA/arthurzinAURA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Tech vibes
 
-Here are some ideas to get you started:
+🎓 IFTO | Estudante de TI
+💻 Código, café e bugs
+📚 Sempre aprendendo algo novo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Mais completa
+
+💻 Desenvolvimento e tecnologia
+🌱 Aprendendo todos os dias
+🚀 Foco em evolução e projetos reais
+
+🔹 Descontraída
+
+🎓 IFTO
+💻 Tentando transformar café em código
+🐞 falhas fazem parte do processo
+
+🔹 Minimalista
+
+🎓 IFTO
+💻 Student | Developer in progress
